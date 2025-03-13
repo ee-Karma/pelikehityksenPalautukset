@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reppu", "Reppu.csproj", "{17046658-BF43-4949-822E-3B6DE09E6422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17046658-BF43-4949-822E-3B6DE09E6422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17046658-BF43-4949-822E-3B6DE09E6422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17046658-BF43-4949-822E-3B6DE09E6422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17046658-BF43-4949-822E-3B6DE09E6422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D621ACFB-0141-4877-BD22-E9268F8BC356}
+	EndGlobalSection
+EndGlobal
